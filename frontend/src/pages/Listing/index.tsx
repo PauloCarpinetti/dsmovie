@@ -33,7 +33,7 @@ function Listing() {
   
     return (
         <>
-            <p>{pageNumber}</p>
+            
             <Pagination />
             <div className="container">
                 <div className="row">
